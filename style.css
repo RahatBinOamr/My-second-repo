@@ -1,0 +1,15 @@
+h1{
+    color: black;
+    text-align: center;
+
+}
+h2{
+    color: darkgreen;
+    text-align: center;
+}
+div{
+    color: aqua;
+    background-color: beige;
+    font-style: italic;
+    
+}
